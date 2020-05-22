@@ -1,0 +1,19 @@
+{
+  "name": "pocfitflow",
+  "version": "1.0.2",
+  "description": "the road to billonaire status",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulXchange/pocfitflow.git"
+  },
+  "author": "Okosisi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulXchange/pocfitflow/issues"
+  },
+  "homepage": "https://github.com/PaulXchange/pocfitflow#readme"
+}
